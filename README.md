@@ -4,6 +4,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/e2ks424yrs1un3wt?svg=true)](https://ci.appveyor.com/project/zeromq/libzmq)
 [![Coverage Status](https://coveralls.io/repos/github/zeromq/libzmq/badge.svg?branch=master)](https://coveralls.io/github/zeromq/libzmq?branch=master)
 [![Conan Center](https://shields.io/conan/v/zeromq)](https://conan.io/center/zeromq)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fth%2Ffork-libzmq.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fth%2Ffork-libzmq?ref=badge_shield)
 
 ## Welcome
 
@@ -196,6 +197,9 @@ The project license is specified in LICENSE.
 
 libzmq is free software; you can redistribute it and/or modify it under
 the terms of the Mozilla Public License Version 2.0.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fth%2Ffork-libzmq.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fth%2Ffork-libzmq?ref=badge_large)
 
 ## Contributing
 
